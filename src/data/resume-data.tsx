@@ -20,10 +20,10 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Timur Ospanov",
+  initials: "TO",
+  location: "Birmingham, UK",
+  locationLink: "https://www.google.com/maps/place/Birmingham",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
@@ -36,12 +36,12 @@ export const RESUME_DATA = {
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/nag132",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/ospanovtimur/",
         icon: LinkedInIcon,
       },
       {
